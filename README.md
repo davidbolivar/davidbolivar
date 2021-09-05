@@ -23,5 +23,3 @@ Desarrollador Backend estudiando para [Desarrollador Full Stack Javascript](http
 - ASP Classic
 - SQL - MySQL
 - Firebase
-
-`Linkedin`  <https://www.linkedin.com/in/davidbolivarh>
