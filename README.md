@@ -1,27 +1,31 @@
-[![](https://www.recargas247.net/img/Logo_original.svg)](https://www.recargas247.net)
+# David Bolívar
 
-Digital platform to **pay or recharge your phone and television services** or **make money** by offering this service to other people in your business or through the Internet.
+Backend Developer studying for [Full Stack Javascript Developer](https://www.coderhouse.com/online/carrera-online-desarrollo-fullstack) at [Coder House](https://www.coderhouse.com) academy.
 
-## Operators and minimum payment or recharge amounts
+In a few words, I could define myself as an entrepreneur, proactive, determined and collaborative. I like to innovate, improve and automate processes and activities.
 
-|  Movistar   |   Movilnet   |   Digitel    | Movistar TV  | Simple TV  |   Inter    |
-| :---------: | :----------: | :----------: | :----------: | :--------: | :--------: |
-| 2.500.00 Bs | 2.000.000 Bs | 5.000.000 Bs | 2.500.000 Bs | 200.000 Bs | 100.000 Bs |
-
-This project was created thinking of helping the end customer to overcome different problems such as recharge limits in banks and payment of high commissions for this service.
-
-`<link>` <https://davidbolivar.github.io/proyecto_coder_house/>
+### Technologies and Frameworks and tools with which I have worked:
+- HTML
+- CSS - Sass - Bootstrap
+- PHP
+- Javascript (ES6) - Jquery
+- ASP Classic
+- SQL - MySQL
+- Firebase
 
 ---
 
-Plataforma digital que permite **pagar o recargar tus servicios de teléfono y televisión** o **ganar dinero** ofreciendo este servicio a otras personas en tu negocio o a través de internet.
+Desarrollador Backend estudiando para [Desarrollador Full Stack Javascript](https://www.coderhouse.com/online/carrera-online-desarrollo-fullstack) en la academia [Coder House](https://www.coderhouse.com).
 
-## Operadoras y montos mínimos de recarga
+En pocas palabras podría definirme como emprendedor, proactivo, determinado y colaborador. Me gusta innovar, mejorar y automatizar procesos y actividades.
 
-|  Movistar   |   Movilnet   |   Digitel    | Movistar TV  | Simple TV  |   Inter    |
-| :---------: | :----------: | :----------: | :----------: | :--------: | :--------: |
-| 2.500.00 Bs | 2.000.000 Bs | 5.000.000 Bs | 2.500.000 Bs | 200.000 Bs | 100.000 Bs |
+### Tecnologías y Frameworks y herramientas con las que he trabajado:
+- HTML
+- CSS - Sass - Bootstrap
+- PHP
+- Javascript (ES6) - Jquery
+- ASP Classic
+- SQL - MySQL
+- Firebase
 
-Este proyecto fue creado pensando en ayudar al cliente final a superar diferentes problemáticas como límites de recarga en entidades bancarias y pago de altas comisiones por este servicio.
-
-`<link>` <https://davidbolivar.github.io/proyecto_coder_house/>
+`Linkedin`  <https://www.linkedin.com/in/davidbolivarh>
