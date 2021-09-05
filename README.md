@@ -4,7 +4,7 @@ Backend Developer studying for [Full Stack Javascript Developer](https://www.cod
 
 In a few words, I could define myself as an entrepreneur, proactive, determined and collaborative. I like to innovate, improve and automate processes and activities.
 
-### Technologies and Frameworks and tools with which I have worked:
+### Technologies, frameworks and tools with which I have worked:
 - HTML
 - CSS - Sass - Bootstrap
 - PHP
@@ -19,7 +19,7 @@ Desarrollador Backend estudiando para [Desarrollador Full Stack Javascript](http
 
 En pocas palabras podría definirme como emprendedor, proactivo, determinado y colaborador. Me gusta innovar, mejorar y automatizar procesos y actividades.
 
-### Tecnologías y Frameworks y herramientas con las que he trabajado:
+### Tecnologías, frameworks y herramientas con las que he trabajado:
 - HTML
 - CSS - Sass - Bootstrap
 - PHP
